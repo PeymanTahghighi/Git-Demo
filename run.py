@@ -1,6 +1,7 @@
 def feature_a():
-    print("i found a bug and fixed it")
-    print("I implemented featureafghhffd a")
+
+    print('improving featurea a')
+    print("I implemented feature a")
 
 print('hello world!')
-:)
+
